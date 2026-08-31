@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "AmpOhm",
-    "slug": "ampohm",
+    "slug": "ampohm-eas",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
@@ -13,7 +13,7 @@
       "backgroundColor": "#020617"
     },
     "android": {
-      "package": "com.audioxpert.ampohm",
+      "package": "com.audioexpert.ampohm",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#020617"
