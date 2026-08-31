@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "AmpOhm",
-    "slug": "ampohm-eas",
+    "slug": "ampohm",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
